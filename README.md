@@ -1,4 +1,4 @@
 # responsive-Christmas-website
 
-#### By HTML, CSS, SCSS, JS with (bedimcode channel)
+#### Developed in HTML, CSS, SCSS, JS with (bedimcode channel)
 [live demo](https://ahmedelgaidi.github.io/responsive-Christmas-website)
