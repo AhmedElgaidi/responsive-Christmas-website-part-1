@@ -1,6 +1,6 @@
-# responsive-Christmas-website
+# Responsive Christmas website:
 
-#### Developed in HTML, CSS, SCSS, JS with (bedimcode channel)
-[live demo](https://ahmedelgaidi.github.io/responsive-Christmas-website)
-[vide](https://clipchamp.com/watch/1x6cPbreoC0)
-[![Christamas landing page](https://www.rd.com/wp-content/uploads/2021/01/GettyImages-1175550351.jpg)](https://clipchamp.com/watch/1x6cPbreoC0)
+### Developed in HTML, CSS, SCSS, JS with (bedimcode channel)
+
+### Check the demo video below [(This is a live demo)](https://ahmedelgaidi.github.io/responsive-Christmas-website)
+[![Check the demo video](https://res.cloudinary.com/dvmkzbrcs/image/upload/v1645906458/github%20photos%20and%20logos/christmas.png)](https://clipchamp.com/watch/1x6cPbreoC0)
